@@ -1,6 +1,6 @@
 ## Hello,World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，I'm Berlin.空闲的时候我喜欢看看电影 🎬  听听歌 🎵 , 也喜欢折腾黑苹果或者自己写点小项目。
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，I'm Berlin,空闲的时候我喜欢看看电影 🎬  听听歌 🎵 , 也喜欢折腾黑苹果或者自己写点小项目。
 
 <table width="800px">
 
@@ -14,7 +14,7 @@
 
 <!-- starts -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wang-Zhengyu-Berlin&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wang-Zhengyu-Berlin&show_icons=true&theme=onedark&&bg_color=D)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ends -->
 
 </td>
